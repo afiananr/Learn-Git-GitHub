@@ -21,3 +21,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 end
+apa ya apa ya apa yaa
